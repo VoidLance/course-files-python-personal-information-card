@@ -40,10 +40,10 @@ Enter your name, age (as a whole number), city, and hobby when prompted. The pro
 
 ## Help
 
-For questions or to report a problem, open an issue in this repository. The project currently has no separate documentation site or troubleshooting guide.
+For questions or to report a problem, [open an issue](https://github.com/VoidLance/course-files-python-personal-information-card/issues). The project currently has no separate documentation site or troubleshooting guide.
 
 ## Maintainers and contributions
 
-This project is maintained by its repository owner and contributors. Contributions are welcome: open an issue to discuss a proposed change, or submit a pull request with a focused improvement. Please include a clear description of what changed and how you checked it.
+No individual maintainer is listed in the project files. Contributions are welcome: [open an issue](https://github.com/VoidLance/course-files-python-personal-information-card/issues) to discuss a proposed change, or submit a pull request with a focused improvement. Please include a clear description of what changed and how you checked it.
 
 There is no separate contribution guide in the repository; keep changes consistent with the small, dependency-free Python project.
